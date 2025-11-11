@@ -196,7 +196,7 @@ class OrderResource extends Resource
                         'processing' => 'Processing',
                         'shipped' => 'Shipped',
                         'delivered' => 'Delivered',
-                        'canceled' => 'Canceled',
+                        'cancelled' => 'Cancelled',
                     ])
                     ->searchable()
                     ->sortable(),
